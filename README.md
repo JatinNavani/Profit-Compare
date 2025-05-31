@@ -83,74 +83,75 @@ flutter build apk
 ## 📸 Screenshots
 
 #### 🔐 Login Screen  
-![Login Screen](screenshots/login.png)  
+<img src="screenshots/login.png" width="300"/>  
 > Secure sign-in using Firebase Authentication.
 
 ---
 
 #### 📝 Register Screen  
-![Register Screen](screenshots/register.png)  
+<img src="screenshots/register.png" width="300"/>  
 > New users can register and create an investment profile.
 
 ---
 
 #### 🛠️ Customize Investment Plan  
-![Customize Screen](screenshots/customize_screen.png)  
+<img src="screenshots/customize_screen.png" width="300"/>  
 > Enter investment amount, time horizon, and risk tolerance to get personalized allocation.
 
 ---
 
 #### 📊 Asset Allocation – Medium Risk  
-![Asset Allocation Medium](screenshots/asset_allocation_screen.jpg)  
+<img src="screenshots/asset_allocation_screen.jpg" width="300"/>  
 > Balanced portfolio mix for medium risk preference.
 
 ---
 
 #### 📊 Asset Allocation – High Risk  
-![Asset Allocation High](screenshots/asset_allocation2_screen.jpg)  
+<img src="screenshots/asset_allocation2_screen.jpg" width="300"/>  
 > High exposure to equities for aggressive investors.
 
 ---
 
 #### 🧮 Portfolio Summary  
-![Portfolio Summary](screenshots/Portfolio_summary.jpg)  
+<img src="screenshots/Portfolio_summary.jpg" width="300"/>  
 > Overview of current asset allocation by percentage and amount.
 
 ---
 
 #### 🧠 Gemini Suggests – AI Portfolio Review  
-![Gemini Suggests](screenshots/Gemini_suggests.png)  
+<img src="screenshots/Gemini_suggests.png" width="300"/>  
 > AI-generated diversification suggestions using Gemini API.
 
 ---
 
 #### 📈 Investment Comparison  
-![Comparison Chart](screenshots/comparison_screen.png)  
+<img src="screenshots/comparison_screen.png" width="300"/>  
 > Graph comparing returns for Nifty 50, Mutual Funds, and Gold across years.
 
 ---
 
 #### 📑 Report Screen – Gold Analysis  
-![Gold Report](screenshots/report_screen.png)  
+<img src="screenshots/report_screen.png" width="300"/>  
 > Gold performance metrics including Sharpe ratio and drawdown.
 
 ---
 
 #### 📑 Report Screen – Mutual Funds Analysis  
-![MF Report](screenshots/report2_screen.png)  
+<img src="screenshots/report2_screen.png" width="300"/>  
 > Mutual Fund returns, risk levels, and reward ratios.
 
 ---
 
 #### 📰 Financial News Feed  
-![Explore News](screenshots/Explore_screen.jpg)  
+<img src="screenshots/Explore_screen.jpg" width="300"/>  
 > Live financial news pulled using NewsData.io API.
 
 ---
 
 #### 💬 AI Chat with Investment Advisor  
-![AI Chat](screenshots/ai_chat_screen.png)  
+<img src="screenshots/ai_chat_screen.png" width="300"/>  
 > Chatbot powered by Gemini to handle user queries in real-time.
+
 
 
 
