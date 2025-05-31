@@ -80,6 +80,80 @@ flutter build apk
 ```
 
 
+## 📸 Screenshots
+
+#### 🔐 Login Screen  
+![Login Screen](screenshots/login.png)  
+> Secure sign-in using Firebase Authentication.
+
+---
+
+#### 📝 Register Screen  
+![Register Screen](screenshots/register.png)  
+> New users can register and create an investment profile.
+
+---
+
+#### 🛠️ Customize Investment Plan  
+![Customize Screen](screenshots/customize_screen.png)  
+> Enter investment amount, time horizon, and risk tolerance to get personalized allocation.
+
+---
+
+#### 📊 Asset Allocation – Medium Risk  
+![Asset Allocation Medium](screenshots/asset_allocation_screen.jpg)  
+> Balanced portfolio mix for medium risk preference.
+
+---
+
+#### 📊 Asset Allocation – High Risk  
+![Asset Allocation High](screenshots/asset_allocation2_screen.jpg)  
+> High exposure to equities for aggressive investors.
+
+---
+
+#### 🧮 Portfolio Summary  
+![Portfolio Summary](screenshots/Portfolio_summary.jpg)  
+> Overview of current asset allocation by percentage and amount.
+
+---
+
+#### 🧠 Gemini Suggests – AI Portfolio Review  
+![Gemini Suggests](screenshots/Gemini_suggests.png)  
+> AI-generated diversification suggestions using Gemini API.
+
+---
+
+#### 📈 Investment Comparison  
+![Comparison Chart](screenshots/comparison_screen.png)  
+> Graph comparing returns for Nifty 50, Mutual Funds, and Gold across years.
+
+---
+
+#### 📑 Report Screen – Gold Analysis  
+![Gold Report](screenshots/report_screen.png)  
+> Gold performance metrics including Sharpe ratio and drawdown.
+
+---
+
+#### 📑 Report Screen – Mutual Funds Analysis  
+![MF Report](screenshots/report2_screen.png)  
+> Mutual Fund returns, risk levels, and reward ratios.
+
+---
+
+#### 📰 Financial News Feed  
+![Explore News](screenshots/Explore_screen.jpg)  
+> Live financial news pulled using NewsData.io API.
+
+---
+
+#### 💬 AI Chat with Investment Advisor  
+![AI Chat](screenshots/ai_chat_screen.png)  
+> Chatbot powered by Gemini to handle user queries in real-time.
+
+
+
 ## 🙇‍♂️ Developed By
 
 **Jatin Navani**  
